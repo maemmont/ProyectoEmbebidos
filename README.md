@@ -1,6 +1,6 @@
 # ProyectoEmbebidos
 Proyecto de la materia Sistemas Embebidos
-Tema: Dispensador de comida para gatos
+## Tema: Dispensador de comida para gatos
 ## Justificación del proyecto 
 El objetivo principal del proyecto es desarrollar un sistema automatizado para alimentar mascotas de manera remota y eficiente, utilizando tecnología WiFi para su control y un sensor de peso para detectar cuándo se ha agotado la comida. Este sistema pretende facilitar la vida de los propietarios de mascotas, garantizando una alimentación regular y monitoreada, incluso cuando no están en casa. 
 ## Descripción del Proyecto: 
